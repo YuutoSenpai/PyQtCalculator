@@ -1,7 +1,7 @@
 import os
 import sys
 
-# ŘEŠENÍ PROBLÉMU S QT PLUGINS - musí být na úplném začátku!
+# ŘEŠENÍ PROBLÉMU S QT PLUGINS
 os.environ['QT_QPA_PLATFORM_PLUGIN_PATH'] = os.path.join(
     os.path.dirname(__file__), '.venv', 'Lib', 'site-packages', 'PyQt5', 'Qt5', 'plugins'
 )

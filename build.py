@@ -28,7 +28,7 @@ if os.path.exists('dist/Kalkulacka.exe'):
     shutil.copy2('dist/Kalkulacka.exe', 'Kalkulacka.exe')
     print("✅ Hotovo! Kalkulacka.exe s ikonou je připraven.")
 
-    # Ukidit
+    # Uklidit
     for folder in ['build', 'dist']:
         if os.path.exists(folder):
             shutil.rmtree(folder)
