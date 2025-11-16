@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a9b3a79f-0eab-49a3-acb7-cd8262a02b39" name="Changes" comment="Kalkulačka + Exe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "b063a2d6",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Rydlo/Desktop/PythonProjekty/PyQtCalculator",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
@@ -123,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763323676825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Kalkulačka + Exe">
+      <option name="closed" value="true" />
+      <created>1763325970357</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1763325970357</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +161,11 @@
         <entry key="722cf992-320b-4bcd-b62a-ecf39ec62ead">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -187,8 +201,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Kalkulačka + Exe" />
     <MESSAGE value="Initial commit: Advanced PyQt Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: Advanced PyQt Calculator" />
+    <MESSAGE value="Kalkulačka + Exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kalkulačka + Exe" />
   </component>
 </project>
